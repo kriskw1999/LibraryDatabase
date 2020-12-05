@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SQLiteJavaProject.iml" filepath="$PROJECT_DIR$/SQLiteJavaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryDatabase.iml" filepath="$PROJECT_DIR$/LibraryDatabase.iml" />
     </modules>
   </component>
 </project>

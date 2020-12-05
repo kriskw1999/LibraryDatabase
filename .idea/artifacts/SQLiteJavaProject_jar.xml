@@ -2,7 +2,7 @@
   <artifact type="jar" name="SQLiteJavaProject:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/SQLiteJavaProject_jar</output-path>
     <root id="archive" name="SQLiteJavaProject.jar">
-      <element id="module-output" name="SQLiteJavaProject" />
+      <element id="module-output" name="LibraryDatabase" />
       <element id="extracted-dir" path="$PROJECT_DIR$/javafx-sdk-11.0.2/lib/src.zip" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/javafx-sdk-11.0.2/lib/javafx-swt.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/javafx-sdk-11.0.2/lib/javafx.web.jar" path-in-jar="/" />
